@@ -11,7 +11,7 @@ Updates the capabilities of your XDAQ
   - 22.04
 
 ## Installation
-First, Download the latest release from the GitHub releases page [here](/kontex-neuro/license_updater/releases) for your operating system, then follow the instructions below.
+First, Download the latest release from the GitHub releases page [here](https://github.com/kontex-neuro/License-Updater/releases) for your operating system, then follow the instructions below.
 
 ### Windows
 1. Install Front Panel USB Drivers from [Opalkelly](https://pins.opalkelly.com/downloads) if you haven't already. It's most likely already installed if you can run any acquisition software.
