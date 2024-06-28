@@ -1,3 +1,6 @@
+# Version 0.1.3
+- Add license download button.
+
 # Version 0.1.2
 - Improved error handling and messaging.
 - Display version and host information on the main page.
